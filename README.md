@@ -121,11 +121,6 @@ Check the created account in the response's 'Location' header.
 #### More operations
 Go ahead and check the code! :)
 
-# Contributing
-If you would like to help making this project better, see the [CONTRIBUTING.md](CONTRIBUTING.md).  
-
-# Maintainers
-Send any other comments, flowers and suggestions to [André Schaffer](https://github.com/andreschaffer) and [Dan Eidmark](https://github.com/daneidmark).
 
 # License
 This project is distributed under the [MIT License](LICENSE).
